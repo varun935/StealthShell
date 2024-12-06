@@ -100,6 +100,9 @@ To build the payload, follow these steps:
 4. Pack the `.exe` with UPX to minimize detection by antivirus programs.
 5. Deploy the executable on the target machine.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Disclaimer
 
 **StealthShell** is intended for ethical penetration testing and educational purposes only. Do not use it for unauthorized access to systems. Misuse of this tool is illegal and can result in severe penalties under computer fraud laws. Always have explicit permission from the owner of the systems you are testing.
