@@ -31,7 +31,7 @@ Here’s a detailed README file template for **StealthShell** that you can use o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/StealthShell.git
+   git clone https://github.com/varun935/StealthShell.git
    cd StealthShell
    ```
 
