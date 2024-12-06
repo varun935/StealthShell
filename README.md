@@ -1,11 +1,4 @@
 # StealthShell
-StealthShell is a reverse shell payload that bypasses antivirus defenses by obfuscating and packing the executable with UPX. It silently establishes a remote connection, allowing persistent control over the compromised system.
-________________________________________________________________________________
-Here’s a detailed README file template for **StealthShell** that you can use on GitHub:
-
----
-
-# StealthShell
 
 **StealthShell** is a reverse shell payload designed to bypass antivirus defenses, including Microsoft Defender, by obfuscating and packing the executable using UPX (Ultimate Packer for Executables). It allows for silent remote access to a compromised system, providing persistent control without detection.
 
